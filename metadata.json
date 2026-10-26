@@ -1,0 +1,6 @@
+{
+  "name": "특수강 환봉 절단면 품질 판독 및 특채(Concession) 심사 AI",
+  "description": "20년 경력의 특수강/환봉 품질 관리 전문가 관점에서 절단면 사진과 고객사 품질 기준을 대조 분석하여 4대 특채 등급과 심사의견서를 도출하는 전문 엔지니어링 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

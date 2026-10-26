@@ -1,0 +1,13 @@
+[
+  {
+    "customerName": "현대위아",
+    "steelGrade": "SCM440",
+    "diameterMm": 90,
+    "verdictGrade": "[특채 승인 권고]",
+    "summaryVerdict": "후공정 단조 시 결함 소멸",
+    "detectedDefects": "편면취 C1.5",
+    "operatorNotes": "1조 검사완료",
+    "id": "sheet-row-1793002112329",
+    "date": "2026-10-26 08:08:32"
+  }
+]
